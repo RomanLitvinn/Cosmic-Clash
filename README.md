@@ -37,3 +37,9 @@ Other
 - [ ]  Creating saving feature.
 - [ ]  Adding difficulty progression
 
+
+## How to run
+1. Install python 3.11.3
+2. Install all requariments with `pip install -r requirements.txt`.
+3. Run `python main.py` from the code folder.
+4. Play ¯_(ツ)_/¯
